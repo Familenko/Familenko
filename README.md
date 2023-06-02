@@ -1,4 +1,4 @@
-### Hello everyone! 👋
+### Hi everyone! 👋
 
 #### About me
 Hard skill:
@@ -10,4 +10,4 @@ I have extensive experience working as a marine engineer, which has allowed me t
 Married, have two cats, love Sci-Fi books
 
 #### Skills
-- Python - SciKit-learn - Tensorflow - Pandas - Numpy - Matplotlib - Seaborn - 
+- Python - SciKit-learn - Tensorflow - Pandas - Numpy - Matplotlib - Seaborn
