@@ -11,8 +11,3 @@ Married, have two cats, love Sci-Fi books
 
 #### Skills
 - Python - SciKit-learn - Tensorflow - Pandas - Numpy - Matplotlib - Seaborn - 
-
-#### Contact me
-- 📫 : leshafamilenko@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/oleksii-kitaiskyi-🇺🇦-61a49a25b/)
-- [Facebook](https://www.facebook.com/profile.php?id=100089120682104)
