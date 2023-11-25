@@ -14,7 +14,6 @@ Numpy 📊
 Matplotlib 📈
 Seaborn 🌊
 Django 🌐
-📚Sci-Fi books
 
 <!DOCTYPE html>
 <html lang="en">
