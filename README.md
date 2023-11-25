@@ -1,9 +1,9 @@
 Hi everyone! 👋
-About me
+# About me
 
 Married, cat parent x2 🐾, Sci-Fi enthusiast 🚀
 
-Skills
+# Skills:
 
 Python 🐍
 SciKit-learn 🧠
@@ -13,7 +13,7 @@ Numpy 📊
 Matplotlib 📈
 Seaborn 🌊
 Django 🌐
-📚Sci-Fi
+📚Sci-Fi books
 
 <!DOCTYPE html>
 <html lang="en">
@@ -23,7 +23,7 @@ Django 🌐
 </head>
 <body>
 <h2>Welcome to My Coding Space! 🚀</h2>
-<p>Thanks for stopping by! I'm [Your Name], and here's a little glimpse into my coding world. Whether I'm crunching data, building web applications, or exploring the vast universe of artificial intelligence, my toolkit is always ready.</p>
+<p>Thanks for stopping by! I'm Oleksii, and here's a little glimpse into my coding world. Whether I'm crunching data, building web applications, or exploring the vast universe of artificial intelligence, my toolkit is always ready.</p>
 <h3>Tech Stack 🌐</h3>
 <ul>
   <li><strong>Python Enthusiast:</strong> From data analysis with Pandas to machine learning with SciKit-learn and Tensorflow, Python is my language of choice.</li>
