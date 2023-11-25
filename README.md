@@ -13,7 +13,7 @@ Numpy 📊
 Matplotlib 📈
 Seaborn 🌊
 Django 🌐
-📚 Always diving into Sci-Fi books for inspiration and escape! 🚀
+📚Sci-Fi
 
 <!DOCTYPE html>
 <html lang="en">
