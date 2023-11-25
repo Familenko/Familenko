@@ -20,31 +20,6 @@ Django 🌐
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to My Coding Space!</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      padding: 20px;
-      background-color: #f4f4f4;
-    }
-    h2 {
-      color: #333;
-      border-bottom: 2px solid #333;
-      padding-bottom: 5px;
-    }
-    p {
-      color: #555;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
 </head>
 <body>
 <h2>Welcome to My Coding Space! 🚀</h2>
