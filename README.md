@@ -16,6 +16,9 @@ Seaborn 🌊
 Django 🌐
 REST 📡
 
+<p>Check out my latest Django project! It's a [brief description of your project]. Feel free to explore the code and see how I leverage Django to build powerful and scalable web applications.</p>
+<p>[[Crewing company website](https://creqing-company-site.onrender.com)]</p>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
