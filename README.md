@@ -22,7 +22,7 @@ Django 🌐
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h2>Welcome to My Coding Space! 🚀</h2>
+<h2>Welcome to My Coding Space! </h2>
 <p>Thanks for stopping by! I'm Oleksii, and here's a little glimpse into my coding world. Whether I'm crunching data, building web applications, or exploring the vast universe of artificial intelligence, my toolkit is always ready.</p>
 <h3>Tech Stack 🌐</h3>
 <ul>
@@ -34,6 +34,6 @@ Django 🌐
 <p>When I'm not immersed in code, you'll find me lost in the captivating worlds of Sci-Fi literature. From dystopian futures to interstellar adventures, these books fuel my imagination and creativity.</p>
 <h3>Cat Lover 🐾</h3>
 <p>At home, I'm outnumbered by my two furry companions. They bring joy, chaos, and the occasional keyboard interruption to my coding sessions.</p>
-<p>Feel free to explore my repositories, ask questions, or connect over shared interests. Let's build, learn, and explore the wonders of technology together! 🚀</p>
+<p>Feel free to explore my repositories, ask questions, or connect over shared interests. Let's build, learn, and explore the wonders of technology together! </p>
 </body>
 </html>
