@@ -14,6 +14,7 @@ Numpy 📊
 Matplotlib 📈
 Seaborn 🌊
 Django 🌐
+REST 📡
 
 <!DOCTYPE html>
 <html lang="en">
@@ -27,7 +28,7 @@ Django 🌐
 <h3>Tech Stack 🌐</h3>
 <ul>
   <li><strong>Python Enthusiast:</strong> From data analysis with Pandas to machine learning with SciKit-learn and Tensorflow, Python is my language of choice.</li>
-  <li><strong>Web Development Wizard:</strong> Crafting interactive and dynamic web applications with Django.</li>
+  <li><strong>Web Development Wizard:</strong> Crafting interactive and dynamic web applications with Django, and seamlessly integrating RESTful APIs for efficient data communication and interaction.</li>
   <li><strong>Data Science Maestro:</strong> Navigating the seas of data using Numpy, and visualizing insights with Matplotlib and Seaborn.</li>
 </ul>
 <h3>Sci-Fi Escapades 📚</h3>
