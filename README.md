@@ -17,8 +17,9 @@ Django 🌐
 REST 📡
 
 <h3>Django Project 🌐</h3>
-<p>Check out my latest Django project! It's a [brief description of your project]. Feel free to explore the code and see how I leverage Django to build powerful and scalable web applications.</p>
-<p><a href="https://creqing-company-site.onrender.com" target="_blank">Explore the Crewing Company Website</a></p>
+<p>Explore my latest Django project, a crewing company site designed to streamline HR processes for managing sailor sign-on and sign-off procedures. Dive into the code to see how I leverage Django to construct a robust and scalable web application tailored for efficient maritime workforce management.</p>
+<p><a href="https://creqing-company-site.onrender.com" target="_blank">Experience the Crewing Company Website</a></p>
+
 
 <!DOCTYPE html>
 <html lang="en">
