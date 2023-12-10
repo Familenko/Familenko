@@ -34,7 +34,7 @@ REST 📡
 <body>
 <h2>Welcome to My Coding Space! </h2>
 <p>Thanks for stopping by! I'm Oleksii, and here's a little glimpse into my coding world. Whether I'm crunching data, building web applications, or exploring the vast universe of artificial intelligence, my toolkit is always ready.</p>
-<h3>Tech Stack 🌐</h3>
+<h3>Tech Stack 🛠️</h3>
 <ul>
   <li><strong>Python Enthusiast:</strong> From data analysis with Pandas to machine learning with SciKit-learn and Tensorflow, Python is my language of choice.</li>
   <li><strong>Web Development Wizard:</strong> Crafting interactive and dynamic web applications with Django, and seamlessly integrating RESTful APIs for efficient data communication and interaction.</li>
