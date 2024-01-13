@@ -1,8 +1,8 @@
-# Hi everyone! 👋 
+# Hi everyone!
 
 # About me
 
-Married, cat parent x2 🐾, Sci-Fi enthusiast 🚀
+Married, cat parent x2, Sci-Fi enthusiast
 
 # Skills:
 
