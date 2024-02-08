@@ -16,15 +16,6 @@ Seaborn 🌊
 Django 🌐
 REST 📡
 
-<h3>Django Project 🌐</h3>
-<p>Explore my latest Django project, a crewing company site designed to streamline HR processes for managing sailor sign-on and sign-off procedures. Dive into the code to see how I leverage Django to construct a robust and scalable web application tailored for efficient maritime workforce management.</p>
-<p>
-  <a href="https://creqing-company-site.onrender.com" target="_blank">Experience the Crewing Company Website</a> (Login: lesha | Password: Gugaga9898)
-</p>
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
