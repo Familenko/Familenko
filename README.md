@@ -13,8 +13,6 @@ Pandas 🐼
 Numpy 📊
 Matplotlib 📈
 Seaborn 🌊
-Django 🌐
-REST 📡
 Excel 📊
 Telegram ✈️
 
